@@ -1,17 +1,9 @@
-/**
- * @file A3_2021719_2021665
- * @author Zaid Dandia & Tahir Muzaffar (2021719,2021665)
- * @brief Spinning Donut
- * @date 2022-03-27
- */
+
 #include <iostream>
 #include <math.h>
 using namespace std;
 #define PI 3.14159
-/**
- * @brief the donut class starts here
- * in which the donut is bieng printed.
- */
+
 class Donut
 {
     /**
